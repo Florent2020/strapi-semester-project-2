@@ -15,5 +15,7 @@ If you get a warning about not being able to use port 1337, check that no other 
 User credentials
 
 email: admin@admin.com
+
 username: admin
+
 password: Pass1234
